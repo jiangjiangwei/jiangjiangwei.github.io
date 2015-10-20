@@ -7,4 +7,4 @@ https://github.com/jiangjiangwei/jiangjiangwei.github.io/wiki/...
 https://github.com / 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片
 比如我将图片scaninnng.gif上传到jiangjiangwei.githup.io项目的master分支下的ImageLibrary文件中.
 那我的引用路径就为
-![](https://github.com/jiangjiagnwei/jiangjiangwei.github.io/raw/master/ImageLibrary/scaninng.gif)
+![]{https://github.com/jiangjiagnwei/jiangjiangwei.github.io/raw/master/ImageLibrary/scaninng.gif}*将大括号改为小括号*
